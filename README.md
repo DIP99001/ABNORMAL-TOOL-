@@ -49,8 +49,9 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/DIP99001/ABNORMAL-TOOL-.git
-cd ABNORMAL-TOOL-
+git clone https://github.com/Akshay-Arjun/69phisher.git
+cd 69phisher
+chmod 777 69phisher.sh
 bash 69phisher.sh
 ```
 
