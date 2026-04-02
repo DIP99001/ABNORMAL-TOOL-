@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/Akshay-Arjun/69phisher">
+  <a href="https://github.com/DIP99001/69phisher">
     <img src="./logo.png" alt="69phisher Logo" width="200">
   </a>
 
@@ -10,13 +10,13 @@
   <p align="center">Update V1.2: Added Airbnb Phishing Simulation</p>
   
   <p align="center">
-    <a href="https://github.com/Akshay-Arjun/69phisher/issues/new?template=bug_report.md">Report Bug</a>
+    <a href="https://github.com/DIP99001/69phisher/issues/new?template=bug_report.md">Report Bug</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/Akshay-Arjun/69phisher/issues/new?template=feature_request.md">Request Feature</a>
   </p>
   
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/Akshay-Arjun/69phisher">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/Akshay-Arjun/69phisher">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/DIP99001/69phisher">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/DIP99001/69phisher">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
 </div>
 
@@ -49,9 +49,8 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Akshay-Arjun/69phisher.git
-cd 69phisher
-chmod 777 69phisher.sh
+git clone https://github.com/DIP99001/ABNORMAL-TOOL-.git
+cd ABNORMAL-TOOL-
 bash 69phisher.sh
 ```
 
@@ -92,7 +91,7 @@ bash 69phisher.sh
 ## 📜 License & Copyright
 
 **MIT License**  
-Copyright © Akshay-Arjun
+Copyright © ABNORMAL TOOL V1
 
 Permission granted for **educational use only**. Commercial use requires explicit written permission. Full license text available in [LICENSE](LICENSE) file.
 
