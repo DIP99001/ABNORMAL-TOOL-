@@ -2,9 +2,9 @@
 
 
 ##   69phisher 	: 	Automated Phishing Tool
-##   Author 	: 	Akshay 
+##   Author 	: 	DIP
 ##   Version 	: 	1.2
-##   Github 	: 	https://github.com/Akshay-Arjun
+##   Github 	: 	https://github.com/DIP99001/ABNORMAL-TOOL-.git
 ## Modified version of :
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
@@ -83,7 +83,7 @@ ${ORANGE}              | |
 ${ORANGE}              |_|   ${RED}Version : 1.2
               
 
-${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Akshay-Arjun ${WHITE}
+${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ABNORMAL TOOL${WHITE}
 EOF
 }
         
